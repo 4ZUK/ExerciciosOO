@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="TEST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Exercicio01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio01/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio01/Exercicio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio01/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio01/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio02/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio02/Triangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RunManager">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -94,10 +91,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1581607844614" />
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581614508808">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581615142389">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581614508808" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581615142389" />
     <state x="387" y="0" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1581607766366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -122,9 +119,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1367" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581614888943" />
-    <state x="200" y="24" key="SettingsEditor" timestamp="1581469433369">
-      <screen x="47" y="24" width="1319" height="744" />
+    <state x="158" y="0" key="SettingsEditor" timestamp="1581616010999">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="158" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581616010999" />
     <state x="200" y="24" key="SettingsEditor/47.24.1319.744@47.24.1319.744" timestamp="1581469433369" />
     <state x="369" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581467348507">
       <screen x="47" y="24" width="1319" height="744" />
