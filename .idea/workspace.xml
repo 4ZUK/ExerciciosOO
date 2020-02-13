@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="">
+    <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="TEST">
+      <change afterPath="$PROJECT_DIR$/src/exercicio01/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio01/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio02/Triangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Exercicio01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio01/ClasseQualquer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio01/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,14 +93,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="TEST" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1581607844614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1581607844614" />
     <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581528713375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581528713375" />
-    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1581606818394">
+    <state x="387" y="0" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1581607766366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581606818394" />
+    <state x="387" y="0" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581607766366" />
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1581609137759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581609137759" />
+    <state width="1367" height="125" key="GridCell.Tab.0.bottom" timestamp="1581609169471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581609169471" />
+    <state width="1367" height="125" key="GridCell.Tab.0.center" timestamp="1581609169471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581609169471" />
+    <state width="1367" height="125" key="GridCell.Tab.0.left" timestamp="1581609169471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581609169471" />
+    <state width="1367" height="125" key="GridCell.Tab.0.right" timestamp="1581609169471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581609169471" />
     <state x="200" y="24" key="SettingsEditor" timestamp="1581469433369">
       <screen x="47" y="24" width="1319" height="744" />
     </state>
