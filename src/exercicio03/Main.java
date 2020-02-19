@@ -2,12 +2,11 @@ package exercicio03;
 
 public class Main {
     public static void main(String[] args) {
+        Livro livro1 = new Livro("Narizinho","Anastacia",12);
 
-        Livro livo1 = new Livro("Machado de assis" , "Vacas feliz", 897 );
-        Livro livo2 = new Livro("micareta do miranda" , "festa amada", 741 );
-        Livro livo3 = new Livro("Tania" , "receitas de bolo", 87 );
-
-
+        livro1.titulo = "um pescador de aluguel";
     }
 
 }
+
+// titulo esta setado como privado na classe pai Livro o que nao da para atribuilo uma troca de nome
